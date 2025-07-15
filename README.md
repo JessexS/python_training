@@ -1,5 +1,5 @@
 ## Beginner projects
-- [command_line_calc.py]([https://pages.github.com/](https://github.com/JessexS/python_training/blob/main/command_line_calc.py)) ✅
+- [command_line_calc.py](https://github.com/JessexS/python_training/blob/main/command_line_calc.py) ✅
 - number_guessing_game.py ✅
 - password_generator.py ✅
 - hangman game 
