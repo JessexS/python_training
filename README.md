@@ -3,11 +3,11 @@
 
 
 ## Beginner projects
-- [command_line_calc.py](https://github.com/JessexS/python_training/blob/main/command_line_calc.py) ✅
-- [number_guessing_game.py](https://github.com/JessexS/python_training/blob/main/number_guessing_game.py) ✅
-- [password_generator.py](https://github.com/JessexS/python_training/blob/main/password_generator.py) ✅
-- hangman game 
-- [rock-paper-scissors](https://github.com/JessexS/python_training/blob/main/rock_paper_scissors.py) ✅
+- [command_line_calc.py](https://github.com/JessexS/python_training/blob/main/command_line_calc.py) [x]
+- [number_guessing_game.py](https://github.com/JessexS/python_training/blob/main/number_guessing_game.py) [x]
+- [password_generator.py](https://github.com/JessexS/python_training/blob/main/password_generator.py) [x]
+- hangman game [ ]
+- [rock-paper-scissors](https://github.com/JessexS/python_training/blob/main/rock_paper_scissors.py) [x]
 - simple webscraper
 - file organizer
 - text based adventure game
