@@ -3,7 +3,7 @@
 - [number_guessing_game.py](https://github.com/JessexS/python_training/blob/main/number_guessing_game.py) ✅
 - [password_generator.py](https://github.com/JessexS/python_training/blob/main/password_generator.py) ✅
 - hangman game 
-- [rock-paper-scissors]([https://github.com/JessexS/python_training/tree/main](https://github.com/JessexS/python_training/blob/main/rock_paper_scissors.py)) ✅
+- [rock-paper-scissors](https://github.com/JessexS/python_training/blob/main/rock_paper_scissors.py) ✅
 - simple webscraper
 - file organizer
 - text based adventure game
