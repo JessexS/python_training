@@ -1,8 +1,3 @@
-# python_training
-Here are my python projects
-
-
-
 ## Beginner projects
 - command_line_calc.py ✅
 - number_guessing_game.py ✅
