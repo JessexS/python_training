@@ -7,8 +7,8 @@ Here are my python projects
 - command_line_calc.py ✅
 - number_guessing_game.py ✅
 - password_generator.py ✅
-- hangman game
-- rock-paper-scissors
+- hangman game 
+- rock-paper-scissors 📝
 - simple webscraper
 - file organizer
 - text based adventure game
