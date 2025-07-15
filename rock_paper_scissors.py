@@ -1,3 +1,5 @@
+# TODO : add option to choose if you want to play computer or human
+
 input1 = input("Player 1, enter your choice (Rock, Paper, Scissors): ")
 input2 = input("Player 2, enter your choice (Rock, Paper, Scissors): ")
 
