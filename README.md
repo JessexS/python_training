@@ -19,7 +19,7 @@
 ## Medium projects
 - [x] [todo_ttk.py](https://github.com/JessexS/python_training/blob/main/todo_ttk.py)
 - [x] [diary_with_local_mongodb.py](https://github.com/JessexS/python_training/blob/main/diary_with_local_mongodb.py) Used AI
-- [x] blackjack in console
+- [x] [blackjack in console](https://github.com/JessexS/python_training/blob/main/blackjack.py)
 
 ## Hard projects
 
