@@ -13,7 +13,7 @@
 - [ ] text based adventure game
 - [ ] currency converter
 - [ ] tic tac toe
-- [ ] blackjack in console
+- [x] blackjack in console
 
 
 ## Medium projects
